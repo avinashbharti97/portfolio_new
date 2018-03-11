@@ -5,28 +5,32 @@ body, html{
 
 	overflow-x: hidden !important;
 	background-color:#1d1d1d;
-	color:#bfb48f;
+	/*color:#ffc600;*/
+	color:#fc7753;
 	font-family:'VT323', monospace;
 	text-decoration-style: none !important;
 
 }
 a:link {
     text-decoration: none;
-    color:#bfb48f;
+    /*color:#bfb48f;*/
+    color:#fc7753;
 }
 a:visited {
     text-decoration: none;
-    color:#bfb48f;
+    /*color:#bfb48f;*/
+    color:#fc7753;
 }
 
 a:hover {
     text-decoration: none;
-    color:#bfb48f;
+    /*color:#bfb48f;*/
+    color:#fc7753;
 }
 
 a:active {
     text-decoration: none;
-    color:#bfb48f;
+    color:#fc7753;
 }
 .card-style{
 	background-color:#262626;
