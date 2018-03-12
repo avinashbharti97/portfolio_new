@@ -6,7 +6,7 @@ body, html{
 	overflow-x: hidden !important;
 	background-color:#1d1d1d;
 	/*color:#ffc600;*/
-	color:#fc7753;
+	color:#ffc857;
 	font-family:'VT323', monospace;
 	text-decoration-style: none !important;
 
@@ -14,23 +14,23 @@ body, html{
 a:link {
     text-decoration: none;
     /*color:#bfb48f;*/
-    color:#fc7753;
+    color:#ffc857;
 }
 a:visited {
     text-decoration: none;
     /*color:#bfb48f;*/
-    color:#fc7753;
+    color:#ffc857;
 }
 
 a:hover {
     text-decoration: none;
     /*color:#bfb48f;*/
-    color:#fc7753;
+    color:#ffc857;
 }
 
 a:active {
     text-decoration: none;
-    color:#fc7753;
+    color:#ffc857;
 }
 .card-style{
 	background-color:#262626;
